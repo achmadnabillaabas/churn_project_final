@@ -1,5 +1,6 @@
 # Churn Project
-Abstrak
+Abstrak :
+
 Penelitian ini membahas pengembangan dan evaluasi model prediksi churn menggunakan algoritma Random Forest pada dataset Churn Modelling. Model yang dikembangkan dibandingkan dengan penelitian pada Jurnal KONTRUKSI (2024). Hasil penelitian menunjukkan peningkatan performa model dengan akurasi mencapai 97% dan F1-score sebesar 93%, lebih tinggi dibandingkan penelitian sebelumnya yang memperoleh akurasi 91% dan F1-score 91%. Peningkatan performa disebabkan oleh optimasi preprocessing, feature engineering, dan penyesuaian hyperparameter. Artikel ini juga menyajikan grafik perbandingan serta output evaluasi lengkap.
 
 
